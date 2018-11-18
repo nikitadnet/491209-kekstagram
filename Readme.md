@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Никита Демченко](https://up.htmlacademy.ru/javascript/16/user/491209).
-* Наставник: `Неизвестно`.
+* Наставник: Наставник Кекс.
 
 ---
 
